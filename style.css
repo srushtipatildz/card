@@ -1,0 +1,24 @@
+.container{
+    border: solid10px black;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   height: 100vh;
+}
+.price{
+    background-color: rgba(246, 96, 51, 0.162);
+    color: red;
+    font-size: 30px;
+    font-weight: 500;
+    border-radius: 10px;
+}
+.card-text{
+    font-weight:700;
+}
+.card-title{
+    font-weight: 900;
+}
+.card{
+    border: solid 2px black;
+
+}
